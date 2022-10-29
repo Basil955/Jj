@@ -54,7 +54,7 @@
         "required": true
       },
       "HEROKU_API_KEY": {
-        "description": "قم بوضع اسم البوت مرة ثانية",
+        "description": "قم بوضع اسم البوت",
         "value": "",
         "required": false
       },
